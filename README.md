@@ -5,4 +5,7 @@ The purpose of this analysis to apply machine learning to sovle real-world chall
 
 ## Results
 
+### Native Oversampling
+[]!(images/Native_Oversampling)
+
 ## Summary
