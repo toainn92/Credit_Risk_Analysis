@@ -42,9 +42,5 @@ The purpose of this analysis to apply machine learning to sovle real-world chall
 
 ![](Images/Easy_Ensemble_AdaBoost_Classifier.PNG)
 
-
-
-
-
-
 ## Summary
+From this analysis, Easy Ensemble AdaBoost Classifier is recommended to predict the most accurate data with an accuracy score of 93%. However, since all modules have low precision in evaluating high risk loans, no modules are recommended as all the precisions are 0.01 - 0.09.
