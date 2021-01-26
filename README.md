@@ -24,7 +24,7 @@ The purpose of this analysis to apply machine learning to sovle real-world chall
 ![](Images/Under_Sampling.PNG)
 
 ### Balanced Random Forest Classifier
-![](Images/Balanced_Random_forest_Classifier.PNG)
+![](Images/Balanced_Random_Forest_Classifier.PNG)
 
 ### Easy_Ensemble_AdaBoost_Classifier
 ![](Images/Easy_Ensemble_AdaBoost_Classifier.PNG)
