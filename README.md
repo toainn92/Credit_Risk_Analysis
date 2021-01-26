@@ -9,6 +9,8 @@ The purpose of this analysis to apply machine learning to sovle real-world chall
 
 ![](Images/Native_Oversampling.PNG)
 
+
+
 ### SMOTE Oversampling
 
 ![](Images/SMOTE_Oversampling.PNG)
