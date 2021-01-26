@@ -17,8 +17,10 @@ The purpose of this analysis to apply machine learning to sovle real-world chall
 - With the confusion matrix below, the low risk applications has a precision of 1.00, recall of 0.69, and f1 score of 0.82
 ![](Images/SMOTE_Oversampling.PNG)
 
-### Under Sampling
-
+### Under Sampling with Cluster Centroid
+- With the Under sampling, the balanced accuracy score is 0.55.
+- With the confusion matrix below, the high risk applications has a precision of 0.01, recall of 0.68, and f1 score of 0.01.
+- With the confusion matrix below, the low risk applications has a precision of 1.00, recall of 0.41, and f1 score of 0.58.
 ![](Images/Under_Sampling.PNG)
 
 ### Balanced Random Forest Classifier
