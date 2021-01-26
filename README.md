@@ -6,10 +6,10 @@ The purpose of this analysis to apply machine learning to sovle real-world chall
 ## Results
 
 ### Native Oversampling
-
+- With the Native Random Oversampling, the balanced accuracy score is 0.65.
+- With the confusion matrix below, the high risk applications has a precision of 0.01, recall of 0.69, and f1 score of 0.02.
+- With the confusion matrix below, the low risk applications has a precision of 1.00, recall of 0.61, and f1 score of 0.76
 ![](Images/Native_Oversampling.PNG)
-
-
 
 ### SMOTE Oversampling
 
