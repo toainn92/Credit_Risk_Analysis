@@ -13,4 +13,20 @@ The purpose of this analysis to apply machine learning to sovle real-world chall
 
 ![](Images/SMOTE_Oversampling.PNG)
 
+### Under Sampling
+
+![](Images/Under_Sampling.PNG)
+
+### Balanced Random Forest Classifier
+![](Images/Balanced_Random_forest_Classifier.PNG)
+
+### Easy_Ensemble_AdaBoost_Classifier
+![](Images/Easy_Ensemble_AdaBoost_Classifier.PNG)
+
+### Combination_Sampling
+![](Images/Combination_Sampling.PNG)
+
+
+
+
 ## Summary
