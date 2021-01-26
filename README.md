@@ -12,7 +12,9 @@ The purpose of this analysis to apply machine learning to sovle real-world chall
 ![](Images/Native_Oversampling.PNG)
 
 ### SMOTE Oversampling
-
+- With the SMOTE Oversampling, the balanced accuracy score is 0.66.
+- With the confusion matrix below, the high risk applications has a precision of 0.01, recall of 0.63, and f1 score of 0.02.
+- With the confusion matrix below, the low risk applications has a precision of 1.00, recall of 0.69, and f1 score of 0.82
 ![](Images/SMOTE_Oversampling.PNG)
 
 ### Under Sampling
