@@ -33,6 +33,10 @@ The purpose of this analysis to apply machine learning to sovle real-world chall
 ![](Images/Balanced_Random_Forest_Classifier.PNG)
 
 ### Easy_Ensemble_AdaBoost_Classifier
+- With the Balanced Random Forest Classifier, the balanced accuracy score is 0.93
+- With the confusion matrix below, the high risk applications has a precision of 0.09, recall of 0.92, and f1 score of 0.16.
+- With the confusion matrix below, the low risk applications has a precision of 1.00, recall of 0.94, and f1 score of 0.97.
+
 ![](Images/Easy_Ensemble_AdaBoost_Classifier.PNG)
 
 
